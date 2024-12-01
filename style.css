@@ -253,7 +253,7 @@ header .menu a:hover::after{
 }
 .slider .list .item .content{
     position: absolute;
-    left: 2%;
+    left: 12%;
     top: 20%;
     width: 500px;
     max-width: 80%;
