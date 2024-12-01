@@ -572,4 +572,9 @@ header .menu a:hover::after{
     .slider .list .item .content .title{
         font-size: 50px;
     }
+    .slider .list .item .content .title,
+.slider .list .item .content .type{
+    font-size: 3em;
+   
+}
 }
