@@ -31,7 +31,7 @@ prevBtn.onclick = function() {
 
 // auto run slider
 let refreshInterval = setInterval(() => {
-    nextBtn.click();
+    // nextBtn.click();
 }, 5000)
 
 
@@ -60,7 +60,7 @@ function moveSlider(direction) {
     // clear auto time run slider
     clearInterval(refreshInterval);
     refreshInterval = setInterval(() => {
-        next.click();
+        // next.click();
     }, 5000)
     slider.addEventListener('animationend', function() {
         if(direction === 'next'){
