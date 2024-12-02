@@ -343,7 +343,7 @@ header .menu a:hover::after {
     position: absolute;
     left: 0;
     bottom: 0;
-    background-image: linear-gradient(to top, rgba(0, 0, 0, .7) 10%, transparent);
+    background-image: linear-gradient(to top, rgba(0, 0, 0, .2) 5%, transparent);
 }
 
 .slider .list .item {
