@@ -79,7 +79,7 @@ header .menu {
 }
 
 header .menu a {
-    color: var(--primary);
+    color: #fff;
     text-decoration: none;
     position: relative;
     border-radius: 2px;
